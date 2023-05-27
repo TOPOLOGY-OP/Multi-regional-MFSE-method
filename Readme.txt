@@ -1,3 +1,4 @@
+This code can be run by "testCode.m". And,
 1. The present code uses the MMA Matlab routines (which is widely used in the structural optimization community) as the optimizer. 
 The present code calls the subroutine mmasub.m (“Version September 2007”) from the MMA Matlab routines, which in turn calls
 another MMA subroutine subsolv.m (“Version Dec 2006”). 
