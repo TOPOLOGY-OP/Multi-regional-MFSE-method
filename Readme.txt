@@ -1,5 +1,6 @@
 The code is supplementary to the corresponding paper:  
-A multi-regional MFSE method for considering high topological complexity and graded cellular structure design, Zhaoyou Sun, Tingxi Yuan, Pai Liu, Yangjun Luo.
+A multi-regional MFSE method for the design of large-scale structures and graded cellular materials considering customizable topological complexity,
+Zhaoyou Sun, Tingxi Yuan, Yangjun Luo.
 And this code can be run by "testCode.m".
 1. The present code uses the MMA Matlab routines (which is widely used in the structural optimization community) as the optimizer. 
 The present code calls the subroutine mmasub.m (“Version September 2007”) from the MMA Matlab routines, which in turn calls
