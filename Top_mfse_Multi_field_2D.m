@@ -217,7 +217,6 @@ end
 % and graded cellular materials considering customizable topological       %
 % complexity                                                               %
 % Zhaoyou Sun, Tingxi Yuan, Yangjun Luo                                    %
-% Submitted to Nature Computational Science, 2023                          %
 % This code is based on the published educational paper                    %
 % A Matlab Code for the Material-Field Series-Expansion Topology           %
 % Optimization Method, by Liu et al., Front. Mech. Eng. (2021)             %
