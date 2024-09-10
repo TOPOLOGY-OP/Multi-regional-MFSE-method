@@ -213,10 +213,9 @@ end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % The code is supplementary to the corresponding paper:                    %
-% A multi-regional MFSE method for the design of large-scale structures    %
-% and graded cellular materials considering customizable topological       %
-% complexity                                                               %
-% Zhaoyou Sun, Tingxi Yuan, Yangjun Luo                                    %
+% A multi-regional MFSE method for large-scale structures                  %
+% with arbitrary design domain                                             %
+% Zhaoyou Sun, Tingxi Yuan, Wenbo Liu, Jiaqi He, Tiejun Sui, Yangjun Luo   %
 % This code is based on the published educational paper                    %
 % A Matlab Code for the Material-Field Series-Expansion Topology           %
 % Optimization Method, by Liu et al., Front. Mech. Eng. (2021)             %
